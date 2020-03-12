@@ -1,0 +1,3 @@
+[submodule "Texts"]
+	path = Texts
+	url = https://github.com/npanuhin/school_task-texts
