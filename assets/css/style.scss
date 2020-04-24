@@ -6,3 +6,20 @@
 footer {
 	display: none;
 }
+
+pre, code {
+	background: none;
+}
+
+.nhome {
+
+	.language-python, .language-xml {
+		padding: 2vw 0;
+	}
+
+	@media (min-width: 1066.666px) {
+		#main_content {
+			max-width: 60vw;
+		}
+	}
+}
