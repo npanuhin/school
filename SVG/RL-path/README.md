@@ -72,7 +72,7 @@ with open("RL-path.svg", 'w', encoding="utf-8") as file:
     file.write(svg.strip())
 
 # Show result:
-# show("Треугольник Серпинского.svg")
+# show("RL-path.svg")
 ```
 
 ### Result
