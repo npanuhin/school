@@ -4,3 +4,4 @@
 -  SVG drawing:
     -  [Sierpinski triangle](./SVG/Sierpinski-triangle)
     -  [RL-path](./SVG/RL-path)
+- [Annealing](./Annealing)
